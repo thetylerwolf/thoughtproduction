@@ -1,64 +1,54 @@
-url: https://y7kim.github.io
-baseurl: /
+url: https://thoughtproduction.se
+baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Thought
+email: hello@thoughtproduction.se
+description: "Thought is a digital production studio focused on building data-driven apps and experiences."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tyler Wolf
   pic: 1
-  position: Lead Designer
+  position: Design/Creative Development, Project Lead
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/tylernwolf
     - title: linkedin
-      url: #
+      url: https://linkedin.com/in/tylernwolf
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Adam Ekberg
+  pic: 2
+  position: Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/adam-ekberg-26a376a0
+
+- name: Stefan Le Noach
+  pic: 3
+  position: Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/stefanlenoach
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+social: #
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Fabrikörvägen 4B
+  - line: 131 52 Nacka Strand
 
 # Build settings
 markdown: kramdown
