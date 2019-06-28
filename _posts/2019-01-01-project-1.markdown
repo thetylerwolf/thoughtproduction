@@ -1,0 +1,17 @@
+---
+title: Mobility Observer
+subtitle: Winner - A Challenge from Sweden
+layout: default
+modal-id: 1
+date: 2019-01-01
+img: mobility-observer.png
+thumbnail: mobility-observer-thumbnail.png
+alt: image-alt
+project-date: April 2019
+client: A Challenge from Sweden
+clientLink: https://challengesgov.se/winner-mobility-observer/
+projectLink: https://adamekberg.github.io/govchallenge
+category: Web App design, development, Data Visualization
+description: Our entry to "A Challenge from Sweden" won the jury selection for best visualization of traffic data in Sweden. The app visualizes a variety of traffic and public transit data in 2D and 3D on an interactive map.
+
+---
