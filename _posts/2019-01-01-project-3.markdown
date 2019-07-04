@@ -1,15 +1,17 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Mobility Observer
+subtitle: Winner - A Challenge from Sweden
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 1
+date: 2019-01-01
+img: mobility-observer.png
+thumbnail: mobility-observer-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2019
+client: A Challenge from Sweden
+clientLink: https://challengesgov.se/winner-mobility-observer/
+projectLink: https://adamekberg.github.io/govchallenge
+category: Web App design, development, Data Visualization
+description: Our entry to "A Challenge from Sweden" won the jury selection for best visualization of traffic data in Sweden. The app visualizes a variety of traffic and public transit data in 2D and 3D on an interactive map.
 
 ---

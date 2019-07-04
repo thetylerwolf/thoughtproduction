@@ -1,15 +1,16 @@
 ---
-title: Escape
-subtitle: Website Design
+title: The Brookings Institution
+subtitle: Data Visualizations
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2019-01-01
+img: Brookings.png
+thumbnail: Brookings-thumbnail.jpg
+alt: The Brookings Institution
+project-date: July - November 2018
+client: The Brookings Institution
+clientLink: https://www.brookings.edu
+category: Web Design, Data Visualization
+description: Thought worked with The Brookings Institution to design and develop data visualizations for their online publication. It was a thrill to work with some of the world's top economic minds, including Dr. Ben Bernanke himself, to provide a visual explanation for the world's most consequential economic topics.
 
 ---

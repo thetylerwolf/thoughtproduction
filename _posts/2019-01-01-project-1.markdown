@@ -1,17 +1,16 @@
 ---
-title: Mobility Observer
-subtitle: Winner - A Challenge from Sweden
+title: Morningstar
+subtitle: App design and Data Visualization
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2019-01-01
-img: mobility-observer.png
-thumbnail: mobility-observer-thumbnail.png
-alt: image-alt
-project-date: April 2019
-client: A Challenge from Sweden
-clientLink: https://challengesgov.se/winner-mobility-observer/
-projectLink: https://adamekberg.github.io/govchallenge
-category: Web App design, development, Data Visualization
-description: Our entry to "A Challenge from Sweden" won the jury selection for best visualization of traffic data in Sweden. The app visualizes a variety of traffic and public transit data in 2D and 3D on an interactive map.
+img: Morningstar.jpg
+thumbnail: Morningstar-thumbnail.jpg
+alt: Morningstar
+project-date: November 2018 - July 2019
+client: Morningstar
+clientLink: https://www.morningstar.com/
+category: Product Design, Data Visualization Design, Web Development
+description: Morningstar hired Thought to improve the User Experience of their premier loan research tool, DBRS Viewpoint. Along the way, we were priveleged to participate in a launch of their new product, which included rethinking the app interface and taking a user-centered approach to data visualization and product design. The result is an easy-to-use app for understanding complex data in a an industry focused on the bottom line.
 
 ---
